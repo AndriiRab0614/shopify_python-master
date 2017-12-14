@@ -1,0 +1,7 @@
+*.py[cod]
+*.egg-info
+.DS_Store
+.cache
+build/
+dist/
+bash.sh
